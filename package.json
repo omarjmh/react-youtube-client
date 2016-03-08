@@ -7,7 +7,7 @@
   "scripts": {
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js"
   },
-  "author": "",
+  "author": "Omar Sial",
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.2.1",
